@@ -26,7 +26,7 @@ export const SidebarData = [
                 icon: <MdIcons.MdSmsFailed />,
             },
             {
-                title: 'Rescreening',
+                title: 'Re-screening',
                 path: '/iwr/rescreening',
                 icon: <FaIcons.FaNotesMedical />,
             },
